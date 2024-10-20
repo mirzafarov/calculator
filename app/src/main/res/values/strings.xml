@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="sqrt">√</string>
+    <string name="equal">=</string>
+    <string name="clear">C</string>
+    <string name="back">DEL</string>
+    <string name="sign_change">+/-</string>
+    <string name="result_hint">Enter number</string>
+</resources>
